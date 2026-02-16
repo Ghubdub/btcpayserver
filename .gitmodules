@@ -1,0 +1,3 @@
+[submodule "Plugins/btcpay-qr-payment"]
+	path = Plugins/btcpay-qr-payment
+	url = https://github.com/Ghubdub/btcpayserver-plugin-qr-payment.git
